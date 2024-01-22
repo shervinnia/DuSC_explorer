@@ -19,8 +19,10 @@ Compatibility
 =============
 
 This program requires pyqtgraph 0.11. You may also need to install different versions of QT depending on your
-operating system. Python 3.9 and PyQt6 have been tested to work as specified in the table on the [pyqtgaph
-Github README] (https://github.com/pyqtgraph/pyqtgraph#qt-bindings-test-matrix)
+operating system. Python versions 3.9, 3.10, and 3.11 and PyQt6 have been tested to work as specified in the table on the [pyqtgaph
+Github README] (https://github.com/pyqtgraph/pyqtgraph#qt-bindings-test-matrix).
+
+Required packages for this program are not compatible with Python 3.12, so neither is this program.
 
 ===============
 Running the GUI
